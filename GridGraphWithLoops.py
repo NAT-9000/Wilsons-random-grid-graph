@@ -245,9 +245,4 @@ class WilsonGridGraphGeneratorWLoops:
 
 ################
 
-gen = WilsonGridGraphGeneratorWLoops(10, 10, 0)
-gen.generate_adjacency()
-A = gen.generate_adjacency()
-print(A)
-print(gen)
 
